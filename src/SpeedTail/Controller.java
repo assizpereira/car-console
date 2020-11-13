@@ -1,9 +1,6 @@
-package sample;
+package SpeedTail;
 
-import javafx.geometry.Insets;
 import javafx.scene.control.Button;
-
-import javax.swing.*;
 
 public class Controller {
     public Button music;
